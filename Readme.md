@@ -42,4 +42,4 @@ Among the files above:
 - file 'LICENSE' is the license file produced by github;
 - file 'The Design of Knowledge Test Based on MATLAB —— ComprehensiveTest.md' is a detailed introduction document for this project. 
 
-For more detailed information, refer to article [The Design of Knowledge Test Based on MATLAB —— ComprehensiveTest.md]().
+For more detailed information, refer to article [The Design of Knowledge Test Based on MATLAB —— ComprehensiveTest.md](https://github.com/chentianyangWHU/MyQuestionnaire/blob/master/The%20Design%20of%20Knowledge%20Test%20Based%20on%20MATLAB%20%E2%80%94%20ComprehensiveTest.md).
