@@ -13,7 +13,7 @@
 
 # <font face="Times New Roman"> I Introduction </font>
 
- ## <font face="Times New Roman"> 1.1 Brief Introduction of The ComprehensiveTest </font>
+## <font face="Times New Roman"> 1.1 Brief Introduction of The ComprehensiveTest </font>
  
 <font face="Times New Roman" size = 3> The knowledge questionnaire, ComprehensiveTest, including 3 main parts is designed based on the GUI of MATLAB. The 3 main parts are filling banks, listening dialogues and reading pictures. There are 17 questions in total and the full mark is 100 points. When you get into the program, you will be welcomed. Every time you finish a question, you will be able to check you answer by clicking the ‘RightAns’ button and look up you scores by clicking the ‘ShowScore’ button. The edit box will show you your score and one dialogue box will be popped up to give you some corresponding comments. Give wrong answers and get very low scores? Don’t worry, just write right answers again and the score will be calculated again. If you really could not give the right answers, don’t worry, simply click the following ‘RightAns’ button; and not only correct answers but also analyses and tips will be given. This knowledge test examines users both in reading and listening. Not only you may need some English knowledge but also you have to have a good command of Chinese and its culture. Do you want to have a try? The panel design is showed in the below picture 1.1. </font>  
 
@@ -34,7 +34,6 @@
 
 <font face="Times New Roman" size = 3>In this part, you will have to read some pictures and give you answers. There are 8 questions and the full mark is 55 points. You must have a good command of Chinese and its culture if you want to get high scores in this part.</font>
 
-&nbsp;
 # <font face="Times New Roman"> II Step And Result Analysis </font>
 
 <font face="Times New Roman" size = 3> In general, the program realized the pre-designed function. In this chapter, all the code will be analyzed by steps and modules to test the results. </font>
@@ -190,7 +189,6 @@ end
     <tr>
 </table>
 
-&nbsp;
 # <font face="Times New Roman"> III Summary </font>
 
 ## <font face="Times New Roman">3.1 Experiences</font>
@@ -213,14 +211,14 @@ end
 
 <font face="Times New Roman">In this program, music(sound) cannot be played without opening the Open-Interface, but this is cockamamie. Can it be realized that a piece of music could be played right after clicking? This is worth learning and trying in the future.</font>
 
-&nbsp;
 # <font face="Times New Roman"> IV Additional Words </font>
 
 <font face="Times New Roman">Here is the [link](https://pan.baidu.com/s/1MqP3sB-lAGbX6mabNZATHA) of the codes of this project and the passwords is *866r*(in CSDN blog). If you are interested in it, please feel free to download them immediately. What's more, if you find something wrong or have better ideas or improvements, please contact me as soon as possible and I will be appreciate for your contribution. </font>
 
-&nbsp;
 # <font face="Times New Roman"> REFERENCES </font>
 
 [1]. [Matlab-GUI-fundation of programming.pdf.](https://kkpatel7.files.wordpress.com/2014/10/learning-to-program-with-matlab.pdf)
+
 [2]. http://www.ilovematlab.cn/matlab_jishuwenzhang_technical_articles/
+
 [3]. http://blog.sina.com.cn/s/blog_4d633dc70100nvbo.html
