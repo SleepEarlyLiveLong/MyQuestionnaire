@@ -1,0 +1,17 @@
+%----------------The Correct Answer And Analysis Of Question No7--------------%
+
+The dialogue is:
+
+M: Christmas is round the corner and I¡¯m looking for a gift for my girlfriend. Any suggestions?
+W: Well, you have to tell me something about your girlfriend first. Also, what¡¯s your budget?
+Q: What does the woman want the man to do?
+
+The choices are:
+
+        A. Tell her something about his girlfriend.
+        B. Give her more information.
+        C. Ask his girlfriend about the budget.
+
+Analysis:
+
+The womam asked the man something about his girlfriend first, then she asked the man's budget as well. So A and C are not comprehensive. So, you should choose B as your answer.
