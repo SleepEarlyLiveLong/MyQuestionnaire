@@ -30,7 +30,6 @@ MyQuestionnaire
         |-- smile1.jpg
         |-- Welcome.wav
     |-- FullScore.PNG
-    |-- LICENSE
     |-- Readme.md
     |-- 基于MATLAB软件GUI界面的自制简单电子琴.md
 ```
@@ -39,7 +38,6 @@ Among the files above:
 - file 'ConprehansiveTest.m' is the source file of this project;
 - the rest files in folder 'src' are resource files;
 - file 'FullScore.PNG' is a preview of the questionnaire;
-- file 'LICENSE' is the license file produced by github;
 - file 'The Design of Knowledge Test Based on MATLAB —— ComprehensiveTest.md' is a detailed introduction document for this project. 
 
 For more detailed information, refer to article [The Design of Knowledge Test Based on MATLAB —— ComprehensiveTest.md](https://github.com/chentianyangWHU/MyQuestionnaire/blob/master/The%20Design%20of%20Knowledge%20Test%20Based%20on%20MATLAB%20%E2%80%94%20ComprehensiveTest.md).
